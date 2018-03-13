@@ -1,3 +1,5 @@
+![cover]
+
 # project1-Quick-Hack-Prototype
 
 De opdrachtgever is de OBA. Voor deze opdracht kregen we een grote dataset en hier mochten we zelf weten wat ermee moesten doen.
@@ -12,4 +14,4 @@ Deze kaarten worden in het spel gegooid en het spel kan beginnen.
 ## Link prototype
 https://desleyaalderink.github.io/OBA-Amsterdam/
 
-[cover]: preview.jpg
+[cover]: preview.png
