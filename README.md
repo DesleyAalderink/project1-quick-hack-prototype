@@ -8,3 +8,6 @@ Deze kaarten worden in het spel gegooid en het spel kan beginnen.
 
 ## Bugs 
 * Klikken op de afbeelding zelf verwijderd het plaatje.
+
+## Link prototype
+https://desleyaalderink.github.io/OBA-Amsterdam/
