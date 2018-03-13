@@ -12,4 +12,4 @@ Deze kaarten worden in het spel gegooid en het spel kan beginnen.
 ## Link prototype
 https://desleyaalderink.github.io/OBA-Amsterdam/
 
-[cover]: preview.png
+[cover]: preview.jpg
